@@ -12,7 +12,7 @@
 
 ### 🏆 Github Profile Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&title=MultiLanguage,Repositories,Commits,Issues&margin-w=15&margin-h=15" alt="github trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&column=7&margin-w=15&margin-h=15" alt="github trophies" />
 </p>
 
 ---
@@ -49,8 +49,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ColdBear14&show_icons=true&theme=radical" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ColdBear14&theme=radical" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brozic2908&show_icons=true&theme=radical" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brozic2908&theme=radical" width="49%">
 </p>
 
 ---
