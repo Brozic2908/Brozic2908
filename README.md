@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Brozic2908&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ### 🏆 Github Profile Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&column=7&margin-w=15&margin-h=15" alt="github trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Brozic2908&theme=onedark&column=7&margin-w=15&margin-h=15" alt="github trophies" />
 </p>
 
 ---
