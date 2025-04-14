@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Brozic2908&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -30,16 +30,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,react,nextjs,nodejs,docker,linux,vscode,figma,arduino,php,bootstrap,tailwind,scss,matlab,git,mysql,mongodb" />
 </p>
-
----
-
-### 📊 This Week I Spent My Time On:
-
----
-
-### 📰 Articles Read on daily.dev:
-
-<p align="center"> <img src="https://api.daily.dev/devcards/brozic2908.png" width="400" alt="@brozic2908's Dev Card"/> </p>
 
 ---
 
