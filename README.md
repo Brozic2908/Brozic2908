@@ -12,7 +12,7 @@
 
 ### 🏆 Github Profile Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&column=7&margin-w=15&margin-h=15" alt="github trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&title=MultiLanguage,Repositories,Commits,Issues&margin-w=15&margin-h=15" alt="github trophies" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ### 🛠️ Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,react,nextjs,nodejs,docker,linux,vscode,figma,arduino,php,bootstrap,tailwind,scss" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,react,nextjs,nodejs,docker,linux,vscode,figma,arduino,php,bootstrap,tailwind,scss,matlab,git,mysql,mongodb" />
 </p>
 
 ---
