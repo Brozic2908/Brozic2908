@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat&title=LongTimeUser,Followers,Experience" alt="profile views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Brozic2908&theme=onedark&no-frame=true&margin-w=15&margin-h=15&title=LongTimeUser,Followers,Experience" alt="profile views" />
 </p>
 
 ---
