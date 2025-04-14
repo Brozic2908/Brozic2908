@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Khánh 👋</h1>
 <p align="center">
-  <b>A passionate Full-Stack Developer from Vietnam 🇻🇳</b> <br/>
+  <b>A passionate Full-Stack Developer and AI from Vietnam 🇻🇳</b> <br/>
   <i>“Technology is not just my career, it's my way of thinking.”</i>
 </p>
 
