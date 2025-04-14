@@ -46,4 +46,21 @@
 ### ☕ Support me:
 <p align="center"> <a href="https://www.buymeacoffee.com/yourusername" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee"/> </a> </p>
 
-```
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ColdBear14&show_icons=true&theme=radical" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ColdBear14&theme=radical" width="49%">
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [nlqk2908@gmail.com](mailto:nlqk2908@gmail.com)  
+- 🔗 LinkedIn: [Nguyễn Lê Quốc Khánh](https://www.linkedin.com/in/kh%C3%A1nh-nguy%E1%BB%85n-l%C3%AA-qu%E1%BB%91c-965222359/)  
+- 🌍 Portfolio (in progress): *Coming soon...*
+
+---
+
+<p align="center"><i>“I don’t just write code, I craft experience.”</i></p>
