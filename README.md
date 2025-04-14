@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Khánh 👋</h1>
 <p align="center">
-  <b>A passionate Full-Stack Developer from Vietnam 🇻🇳</b> <br/>
+  <b>A passionate Full-Stack Developer and AI from Vietnam 🇻🇳</b> <br/>
   <i>“Technology is not just my career, it's my way of thinking.”</i>
 </p>
 
@@ -49,8 +49,8 @@ Built full-stack system with shopping cart, admin management & user Q&A
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ColdBear14&show_icons=true&theme=radical" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ColdBear14&theme=radical" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brozic2908&show_icons=true&theme=radical" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brozic2908&theme=radical" width="49%">
 </p>
 
 ---
