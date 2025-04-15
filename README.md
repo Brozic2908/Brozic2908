@@ -28,7 +28,7 @@
 ### 🛠️ Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,react,nextjs,nodejs,docker,linux,vscode,figma,arduino,php,bootstrap,tailwind,scss,matlab,git,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,html,css,react,nextjs,nodejs,docker,linux,vscode,figma,arduino,php,bootstrap,tailwind,scss,matlab,git,mysql,mongodb" />
 </p>
 
 ---
