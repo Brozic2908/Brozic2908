@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi, I'm Khánh</h1>
-<h3 align="center">🚀 Full-Stack Developer • AI Enthusiast • Problem Solver</h3>
+<h3 align="center">🚀 Full-Stack Developer | AI Engineer | Big Data Enthusiast</h3>
 
 <p align="center">
-  <i>"Technology is not just my career, it's my way of thinking."</i>
+<i>"Technology is not just my career, it's my way of thinking."</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brozic2908&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Brozic2908?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/Brozic2908?style=for-the-badge&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=Brozic2908&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Brozic2908?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Brozic2908?style=for-the-badge"/>
 </p>
 
 ---
@@ -21,43 +21,68 @@
   **AI Systems • Compilers • Smart Space Management**
 
 * 🌱 Currently learning
-  **Deep Learning • Advanced Full-Stack Development**
+  **Deep Learning • Distributed Systems**
 
 * 🤝 Collaborating on
-  **Open Source Projects & University Research**
+  **Open Source & University Research**
 
 * 💬 Ask me about
-  `Python` • `Full-Stack Development` • `AI Search Algorithms`
-
-* ⚡ Fun fact
-  I love solving **complex problems with elegant code**
+  `Python` • `Fullstack` • `AI Search Algorithms` • `Big Data`
 
 ---
 
 # 🚀 Tech Stack
 
-### 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,php,matlab,r" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,php,matlab,r"/>
 </p>
 
-### 🌐 Web Development
+---
+
+## 🌐 Web Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,nodejs,express,laravel,bootstrap,tailwind,scss" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,nodejs,express,laravel,bootstrap,tailwind,scss"/>
 </p>
 
-### 🤖 AI / Data / ML
+---
+
+# 🤖 Artificial Intelligence
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 </p>
 
-### 🛠 Tools & Platforms
+Deep Learning • Neural Networks • Machine Learning • AI Search Algorithms • Model Training
+
+---
+
+# 📊 Big Data & Distributed Systems
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,firebase,mysql,mongodb,postman,figma,vscode,arduino,babel,webstorm,discord" />
+
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HDFS-Distributed%20Storage-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Streaming-RealTime-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Pipelines-ETL-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🛠 Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,firebase,mysql,mongodb,postman,figma,vscode,arduino,babel,webstorm"/>
 </p>
 
 ---
@@ -65,27 +90,40 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Brozic2908&theme=radical&no-frame=false&margin-w=10&margin-h=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Brozic2908&theme=radical&margin-w=10&margin-h=10&column=7"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Brozic2908&show_icons=true&theme=radical&hide_border=true" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brozic2908&theme=radical&hide_border=true" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Brozic2908&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brozic2908&theme=radical&hide_border=true" width="48%"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brozic2908&layout=compact&theme=radical&hide_border=true" width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brozic2908&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
 # 🌐 Connect With Me
-
-<p align="center">
 
 📧 Email
 [nlqk2908@gmail.com](mailto:nlqk2908@gmail.com)
@@ -94,9 +132,7 @@
 https://www.linkedin.com/in/kh%C3%A1nh-nguy%E1%BB%85n-l%C3%AA-qu%E1%BB%91c-965222359/
 
 🌍 Portfolio
-*Coming soon...*
-
-</p>
+Coming Soon...
 
 ---
 
@@ -111,5 +147,7 @@ https://www.linkedin.com/in/kh%C3%A1nh-nguy%E1%BB%85n-l%C3%AA-qu%E1%BB%91c-96522
 ---
 
 <p align="center">
-💡 <i>I don’t just write code, I build intelligent systems.</i>
+
+💡 *I don’t just write code — I build intelligent systems.*
+
 </p>
