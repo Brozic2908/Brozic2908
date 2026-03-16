@@ -1,8 +1,26 @@
-<h1 align="center">Hi there, I'm Khánh 👋</h1>
+<h1 align="center">Hi 👋, I'm Khánh</h1>
+<h3 align="center">🚀 Full-Stack Developer | AI Enthusiast | Researcher from Vietnam 🇻🇳</h3>
+
 <p align="center">
-  <b>A passionate Full-Stack Developer and AI from Vietnam 🇻🇳</b> <br/>
-  <i>“Technology is not just my career, it's my way of thinking.”</i>
+  <i>"Technology is not just my career — it's the way I think."</i>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Brozic2908&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Brozic2908?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Brozic2908?label=Stars&style=for-the-badge" />
+</p>
+
+---
+
+# 🧠 About Me
+
+```yaml
+Name: Nguyễn Lê Quốc Khánh
+Location: Vietnam
+Role: Fullstack Developer / AI Developer
+Focus: AI Systems, Compilers, Smart Space Management
+```
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Brozic2908&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
