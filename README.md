@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Khánh</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI Engineer | Big Data Enthusiast</h3>
+<h3 align="center">🚀  AI Engineer | Big Data Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
 <i>"Technology is not just my career, it's my way of thinking."</i>
@@ -13,7 +13,7 @@
 
 ---
 
-# 🧠 About Me
+### 🧠 About Me
 
 🎓 Developer from **Vietnam 🇻🇳** passionate about building intelligent systems.
 
@@ -31,9 +31,9 @@
 
 ---
 
-# 🚀 Tech Stack
+### 🚀 Tech Stack
 
-## 👨‍💻 Programming Languages
+#### 👨‍💻 Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,php,matlab,r"/>
@@ -41,7 +41,7 @@
 
 ---
 
-## 🌐 Web Development
+#### 🌐 Web Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,nodejs,express,laravel,bootstrap,tailwind,scss"/>
@@ -49,7 +49,7 @@
 
 ---
 
-# 🤖 Artificial Intelligence
+### 🤖 Artificial Intelligence
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
@@ -59,7 +59,7 @@ Deep Learning • Neural Networks • Machine Learning • AI Search Algorithms 
 
 ---
 
-# 📊 Big Data & Distributed Systems
+### 📊 Big Data & Distributed Systems
 
 <p align="center">
 
@@ -79,7 +79,7 @@ Deep Learning • Neural Networks • Machine Learning • AI Search Algorithms 
 
 ---
 
-# 🛠 Tools & Platforms
+### 🛠 Tools & Platforms
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,firebase,mysql,mongodb,postman,figma,vscode,arduino,babel,webstorm"/>
@@ -87,7 +87,7 @@ Deep Learning • Neural Networks • Machine Learning • AI Search Algorithms 
 
 ---
 
-# 🏆 GitHub Achievements
+### 🏆 GitHub Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Brozic2908&theme=radical&margin-w=10&margin-h=10&column=7"/>
@@ -95,7 +95,7 @@ Deep Learning • Neural Networks • Machine Learning • AI Search Algorithms 
 
 ---
 
-# 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
 
@@ -113,7 +113,7 @@ Deep Learning • Neural Networks • Machine Learning • AI Search Algorithms 
 
 ---
 
-# 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
 
@@ -123,7 +123,7 @@ Deep Learning • Neural Networks • Machine Learning • AI Search Algorithms 
 
 ---
 
-# 🌐 Connect With Me
+### 🌐 Connect With Me
 
 📧 Email
 [nlqk2908@gmail.com](mailto:nlqk2908@gmail.com)
@@ -132,11 +132,11 @@ Deep Learning • Neural Networks • Machine Learning • AI Search Algorithms 
 https://www.linkedin.com/in/kh%C3%A1nh-nguy%E1%BB%85n-l%C3%AA-qu%E1%BB%91c-965222359/
 
 🌍 Portfolio
-Coming Soon...
+https://brozic.my.canva.site/
 
 ---
 
-# ☕ Support Me
+### ☕ Support Me
 
 <p align="center">
 <a href="https://buymeacoffee.com/nlqk29089">
@@ -147,7 +147,5 @@ Coming Soon...
 ---
 
 <p align="center">
-
 💡 *I don’t just write code — I build intelligent systems.*
-
 </p>
