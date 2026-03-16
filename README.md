@@ -1,70 +1,115 @@
-Hi 👋, I’m Khánh
-🚀 Full-Stack Developer | AI Enthusiast | Researcher from Vietnam 🇻🇳
-“Technology is not just my career — it’s the way I think.”
+<h1 align="center">👋 Hi, I'm Khánh</h1>
+<h3 align="center">🚀 Full-Stack Developer • AI Enthusiast • Problem Solver</h3>
 
-------------------------------------------------------------------------
+<p align="center">
+  <i>"Technology is not just my career, it's my way of thinking."</i>
+</p>
 
-🧠 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Brozic2908&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Brozic2908?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/Brozic2908?style=for-the-badge&color=yellow" />
+</p>
 
-    Name: Nguyễn Lê Quốc Khánh
-    Location: Vietnam
-    Role: Fullstack Developer / AI Developer
-    Focus: AI Systems, Compilers, Smart Space Management
+---
 
--   🔭 Currently building AI systems and smart management platforms
--   🌱 Learning Deep Learning, Advanced AI, Scalable Fullstack Systems
--   👯 Collaborating on Open Source & University Research
--   💬 Ask me about
-    Python AI Search Algorithms Fullstack Development System Design
+# 🧠 About Me
 
-------------------------------------------------------------------------
+🎓 Developer from **Vietnam 🇻🇳** passionate about building intelligent systems.
 
-⚡ Tech Stack
+* 🔭 Currently working on
+  **AI Systems • Compilers • Smart Space Management**
 
-💻 Programming Languages
+* 🌱 Currently learning
+  **Deep Learning • Advanced Full-Stack Development**
 
-🌐 Frontend Development
+* 🤝 Collaborating on
+  **Open Source Projects & University Research**
 
-⚙️ Backend Development
+* 💬 Ask me about
+  `Python` • `Full-Stack Development` • `AI Search Algorithms`
 
-🤖 AI / Machine Learning
+* ⚡ Fun fact
+  I love solving **complex problems with elegant code**
 
-🛠 Tools & Platforms
+---
 
-------------------------------------------------------------------------
+# 🚀 Tech Stack
 
-🏆 GitHub Achievements
+### 👨‍💻 Programming Languages
 
-------------------------------------------------------------------------
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,php,matlab,r" />
+</p>
 
-📊 GitHub Statistics
+### 🌐 Web Development
 
-------------------------------------------------------------------------
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,nodejs,express,laravel,bootstrap,tailwind,scss" />
+</p>
 
-🚀 Current Focus
+### 🤖 AI / Data / ML
 
--   🤖 Artificial Intelligence Systems
--   🧠 Search Algorithms & Optimization
--   🖥 Compiler Design
--   🌐 Scalable Full-Stack Applications
--   🏙 Smart Space / Smart City Management
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
-------------------------------------------------------------------------
+### 🛠 Tools & Platforms
 
-☕ Support My Work
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,firebase,mysql,mongodb,postman,figma,vscode,arduino,babel,webstorm,discord" />
+</p>
 
-------------------------------------------------------------------------
+---
 
-📫 Contact Me
+# 🏆 GitHub Achievements
 
-📧 Email: nlqk2908@gmail.com
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Brozic2908&theme=radical&no-frame=false&margin-w=10&margin-h=10&column=7"/>
+</p>
 
-💼 LinkedIn
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Brozic2908&show_icons=true&theme=radical&hide_border=true" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brozic2908&theme=radical&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brozic2908&layout=compact&theme=radical&hide_border=true" width="40%">
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+📧 Email
+[nlqk2908@gmail.com](mailto:nlqk2908@gmail.com)
+
+🔗 LinkedIn
 https://www.linkedin.com/in/kh%C3%A1nh-nguy%E1%BB%85n-l%C3%AA-qu%E1%BB%91c-965222359/
 
 🌍 Portfolio
-Coming Soon…
+*Coming soon...*
 
-------------------------------------------------------------------------
+</p>
 
-“I don’t just write code — I build intelligent systems.”
+---
+
+# ☕ Support Me
+
+<p align="center">
+<a href="https://buymeacoffee.com/nlqk29089">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+💡 <i>I don’t just write code, I build intelligent systems.</i>
+</p>
