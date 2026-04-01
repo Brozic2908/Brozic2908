@@ -126,10 +126,10 @@ Deep Learning • Neural Networks • Machine Learning • AI Search Algorithms 
 ### 🌐 Connect With Me
 
 📧 Email
-[nlqk2908@gmail.com](mailto:nlqk2908@gmail.com)
+[nlqk2908@gmail.com](mailto:quockhanh.nguyen290804@gmail.com)
 
 🔗 LinkedIn
-https://www.linkedin.com/in/kh%C3%A1nh-nguy%E1%BB%85n-l%C3%AA-qu%E1%BB%91c-965222359/
+https://www.linkedin.com/in/quockhanhnguyen2908
 
 🌍 Portfolio
 https://brozic.my.canva.site/
