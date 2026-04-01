@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Khánh</h1>
-<h3 align="center">🚀  AI Engineer | Big Data Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
 <i>"Technology is not just my career, it's my way of thinking."</i>
