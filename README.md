@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-🎓 Developer from **Vietnam 🇻🇳** passionate about building intelligent systems.
+* 🎓 Developer from **Vietnam 🇻🇳** passionate about building intelligent systems.
 
 * 🔭 Currently working on
   **AI Systems • Compilers • Smart Space Management**
