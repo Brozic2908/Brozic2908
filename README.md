@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Khánh</h1>
+<h1 align="center">👋 Hi, I'm Brozic</h1>
 
 <p align="center">
 <i>"Technology is not just my career, it's my way of thinking."</i>
