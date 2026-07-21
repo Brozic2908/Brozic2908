@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Brozic2908&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Brozic2908?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/Brozic2908?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=brozic-ai&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/brozic-ai?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/brozic-ai?style=for-the-badge"/>
 </p>
 
 ---
@@ -89,7 +89,7 @@ Deep Learning • Neural Networks • Machine Learning • AI Search Algorithms 
 ### 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Brozic2908&theme=radical&margin-w=10&margin-h=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=brozic-ai&theme=radical&margin-w=10&margin-h=10&column=7"/>
 </p>
 
 ---
@@ -98,15 +98,15 @@ Deep Learning • Neural Networks • Machine Learning • AI Search Algorithms 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Brozic2908&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=brozic-ai&show_icons=true&theme=radical&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brozic2908&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brozic-ai&theme=radical&hide_border=true" width="48%"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brozic2908&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brozic-ai&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
