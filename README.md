@@ -98,15 +98,15 @@ Deep Learning • Neural Networks • Machine Learning • AI Search Algorithms 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=brozic-ai&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Brozic-AI&show_icons=true&theme=radical&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brozic-ai&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brozic-AI&theme=radical&hide_border=true" width="48%"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brozic-ai&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brozic&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
